@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kazz!
+- 👋 Hi, I’m Sam!
 - 👀 Interested in Website Design! Both back and front-end :)
 - 🌱 Currently learning Html, CSS, and JavaScript
 - 🍊 Pronouns: She/Her
