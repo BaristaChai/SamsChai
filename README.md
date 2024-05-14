@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @SamsChai
-- 👀 I’m interested in Website Design! Both back and front-end :)
-- 🌱 I’m currently learning Html, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on nothing yet! I still have much to learn.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I paint! not super well tho
+- 👋 Hi, I’m Kazz!
+- 👀 Interested in Website Design! Both back and front-end :)
+- 🌱 Currently learning Html, CSS, and JavaScript
+- 🍊 Pronouns: She/Her
 
 <!---
 SamsChai/SamsChai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
